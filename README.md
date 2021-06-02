@@ -1,2 +1,2 @@
-# Chess
-Chess Engine using Alpha beta, transposition tables, and board heuristics as well as a chess GUI (WIP)
+# Games
+3 Different games, chess, a spinner game, and a snake game
